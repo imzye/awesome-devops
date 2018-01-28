@@ -5,7 +5,7 @@ Table of Contents
 =================
   - Books
   - References
-  - Other
+  - Open source tools
 
 ## Books
 DevOps Automation Cookbook
@@ -25,6 +25,10 @@ The DevOps 2.0 Toolkit
 
 
 ## References
+WIP
+
+## Open source tools
+WIP
 
 ## Modern DevOps system
-
+WIP
