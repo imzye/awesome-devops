@@ -8,6 +8,8 @@ Table of Contents
   - Other
 
 ## Books
+DevOps Automation Cookbook
+![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_Automation_Cookbook.png)
 
 ## References
 
