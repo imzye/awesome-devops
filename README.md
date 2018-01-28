@@ -32,6 +32,11 @@ The DevOps 2.0 Toolkit
 
 ![](https://github.com/imzye/awesome-devops/raw/master/pic/The_DevOps_2_0_Toolkit.png)
 
+DevOps for developers
+>During their daily work of delivering valuable software to customers, too often development and operations are in con ict with each other. Development wants to see their changes (e.g., new features) delivered to the customer quickly, whereas operations is interested in stability, which means not changing the production systems too often.
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_for_Developers.png)
+
 
 ## References
 WIP
