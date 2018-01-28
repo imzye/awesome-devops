@@ -37,6 +37,10 @@ DevOps for developers
 
 ![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_for_Developers.png)
 
+Building a DevOps Culture
+>DevOps is as much about culture as it is about tools.
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/Building_a_DevOps_Culture.png)
 
 ## References
 WIP
