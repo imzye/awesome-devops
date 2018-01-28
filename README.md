@@ -8,6 +8,15 @@ Table of Contents
   - Open source tools
 
 ## Books
+
+DevOps For Dummies
+>- The business need and value of DevOps
+>- Principles and practices of DevOps
+>- Four paths to DevOps adoption
+>- The DevOps myths
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_For_Dummies.png)
+
 DevOps Automation Cookbook
 >Over 120 recipes covering key automation techniques through code management and virtualization offered by modern Infrastructure-as-a-Service solutions
 
