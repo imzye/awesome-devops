@@ -14,6 +14,12 @@ DevOps Automation Cookbook
 
 ![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_Automation_Cookbook.png)
 
+Practical DevOps
+>Harness the power of DevOps to boost your skill set and make your IT organization perform better
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/Practical_DevOps.png)
+
+
 ## References
 
 ## Modern DevOps system
