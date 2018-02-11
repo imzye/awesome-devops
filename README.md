@@ -42,6 +42,11 @@ Building a DevOps Culture
 
 ![](https://github.com/imzye/awesome-devops/raw/master/pic/Building_a_DevOps_Culture.png)
 
+Continuous Delivery and DevOps – A Quickstart Guide
+>Deliver quality software regularly and painlessly by adopting CD and DevOps
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/Continuous_Delivery_and_DevOps.png)
+
 ## References
 WIP
 
