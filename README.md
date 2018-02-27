@@ -66,7 +66,13 @@ Implementing DevOps on AWS
 WIP
 
 ## Open source tools
-WIP
+=================
+  - Ansible
+  - Puppet
+  - Jenkins
+  - gitlab
+  - docker
 
 ## Modern DevOps system
-WIP
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/ReactiveDevops.png)
