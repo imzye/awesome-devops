@@ -57,6 +57,11 @@ DevOps with Kubernetes
 
 ![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_with_Kubernetes.png)
 
+Implementing DevOps on AWS
+>Bring the best out of DevOps and build, deploy, and maintain applications on AWS
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/Implementing_DevOps_on_AWS.png)
+
 ## References
 WIP
 
