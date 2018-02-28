@@ -62,6 +62,11 @@ Implementing DevOps on AWS
 
 ![](https://github.com/imzye/awesome-devops/raw/master/pic/Implementing_DevOps_on_AWS.png)
 
+DevOps with OpenShift
+>One view of DevOps is that it helps take on that last mile problem in software: value delivery.
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_with_OpenShift.png)
+
 ## References
 WIP
 
