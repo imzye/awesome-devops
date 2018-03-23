@@ -70,6 +70,11 @@ DevOps with OpenShift
 
 ![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_with_OpenShift.png)
 
+DevOps for Web Development
+>Achieve the Continuous Integration and Continuous Delivery of your web applications with ease.
+
+![](https://github.com/imzye/awesome-devops/raw/master/pic/DevOps_for_Web_Development.png)
+
 ## References
 WIP
 
